@@ -24,4 +24,8 @@ c) the flashing process with acquired files, which goes like:
 
 > fastboot flash boot recovery.img
 
+> fastboot reboot recovery
+
+// ili ako jebe s "unknown reboot target recovery", ovisno o inačici fastboot cli-a, zviznut ga s jednim 'prvi-maj-gerijem' il' 'geri fišerom' drito u patliđanušu od jetre //
+
 ### and, of course, always remember to treat others with... kidneyZ
