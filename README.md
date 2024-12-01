@@ -28,6 +28,8 @@ c) the flashing process with acquired files, includes the following steps:
 
 > fastboot reboot recovery
 
-// ili ako jebe s "unknown reboot target recovery", ovisno o inačici fastboot cli-a, zviznut ga s jednim 'prvi-maj-gerijem' il' 'geri fišerom' drito u patliđanušu od jetre //
+// in case you get the "unknown reboot target recovery" message, depending on the version of the fastboot cli//
+
+> do the 'barbara streisand'
 
 ### and, of course, always remember to treat others with... kidneyZ
