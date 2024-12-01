@@ -24,4 +24,4 @@ c) the flashing process with acquired files, which goes like:
 
 > fastboot flash boot recovery.img
 
-### and, of course, always remember to threat others with... kidneyZ
+### and, of course, always remember to treat others with... kidneyZ
