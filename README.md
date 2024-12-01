@@ -7,7 +7,7 @@ short description: a place to bind all the steps and files necessary for unlocki
 
 ### 2. Unlocking the Bootloader
 ### 3. Flashing custom-twrp recovery, depending on the model, in this case combo (Gale - Gust)
-a) determining wich miui version you are running
+a) determining which miui version you are running
 
 b) selecting the appropriate miui version, making sure it matches your region (Global, EEA, Taiwan) from:
 
@@ -24,3 +24,4 @@ c) the flashing process with acquired files, which goes like:
 
 > fastboot flash boot recovery.img
 
+# and, of course, always remember to threat others with... kidneyZ
