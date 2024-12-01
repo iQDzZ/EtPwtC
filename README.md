@@ -28,7 +28,7 @@ c) the flashing process with acquired files, includes the following steps:
 
 > fastboot reboot recovery
 
-// in case you get the "unknown reboot target recovery" message, depending on the version of the fastboot cli//
+// in case you get the "unknown reboot target recovery" message, depending on the fastboot cli version//
 
 > do the 'barbara streisand' or the 'steven spielberg'
 
