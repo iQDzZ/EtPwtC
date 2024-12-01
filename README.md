@@ -15,7 +15,10 @@ b) selecting the appropriate miui version, making sure it matches your region (G
 
 c) the flashing process with acquired files, which goes like:
 > fastboot oem cdms
+
 > fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+
 // renaming the twrp.img to recovery.img //
+
 > fastboot flash boot recovery.img
 
