@@ -55,6 +55,6 @@ c) the flashing process with acquired files, includes the following steps:
 
 > REBOOT, by the time it starts loading the system, unplug the usb cable from the REDMI phone, REBOOT or power off the system > Press Power button while hodling the volume up button, after the initial vibration of the phone, release the power button and keep holding the volume up button until the TWRP boot screen shows up > you sucessfully installed a custom recovery to your phone
 
-## 4. Rooting the phone with the MAGISK solution
+### 4. Rooting the phone with the MAGISK solution
 
 ### and, of course, always remember to treat others with... kidneyZ
