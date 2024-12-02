@@ -49,4 +49,8 @@ c) the flashing process with acquired files, includes the following steps:
 
 // as all of the mentioned steps were, in fact, preparation steps, as the REDMI 13c doesn't have a dedicated recovery partition, and we were bypassing the boot.img sequence which was replaced with a recovery, twrp one, only to be able, finally, to compensate for the lack of a dedicated recovery partition with embeding, integrating the assets of the recovery image within the boot.img //
 
+// this is the part where we are, actually installing the TWRP, embeding it within the boot.img file //
+
+> from the MAIN MENU, select the ADVANCED tab > select 'Flash current TWRP' option and proceed with the 'SWIPE TO FLASH' action
+
 ### and, of course, always remember to treat others with... kidneyZ
