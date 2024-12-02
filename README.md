@@ -36,4 +36,6 @@ c) the flashing process with acquired files, includes the following steps:
 
 // you should se your screen boot up to the TWRP logo, go past the screen and depending if you have a screen lock, greet you with a pattern-unlock grid or, if you didn't set up a screen lock beforehand, you'll be greeted with a TWRP menu //
 
+// in case you end up on the TWRP logo, not going past the boot screen, then you probably flashed a wrong recovery image, not build against your current platform, and for that purpose there is the section UN-bricking the SOFT-brick-ed device, because it became soft like jelly on the touch and the only remedy is to throw bricks at it, piling them up on the top of the phone so we can later on, as I mentioned, UN-brick it //
+
 ### and, of course, always remember to treat others with... kidneyZ
