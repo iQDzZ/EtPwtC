@@ -39,7 +39,7 @@ c) the flashing process with acquired files, includes the following steps:
 // in case you end up on the TWRP logo, not going past the boot screen, then you probably flashed a wrong recovery image, not built against your current platform, and for that purpose there is the section UN-bricking the SOFT-brick-ed device, because it became soft like jelly on the touch and the only remedy is to throw bricks at it, piling them up on top of the phone so we can later on, as I mentioned, UN-brick it //
 
 
-// this is the part where we flash the original boot.image back, through the TWRP recovery, so we can later on, after flashing the boot.img, embed/flash the current TWRP/recovery image withing the current boot.img, actually, installing the TWRP recovery, via the recovery //
+d) this is the part where we flash the original boot.image back, through the TWRP recovery, so we can later on, after flashing the boot.img, embed/flash the current TWRP/recovery image withing the current boot.img, actually, installing the TWRP recovery, via the recovery
 
 
 > Within the TWRP menu go to the INSTALL TAB > select by, tapping in the bottom section, 'INSTALL IMAGE' option > select the original boot.img you placed on your phone > proceed with 'SWIPE TO FLASH' action
