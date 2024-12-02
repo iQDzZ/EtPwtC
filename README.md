@@ -34,4 +34,6 @@ c) the flashing process with acquired files, includes the following steps:
 
 > fastboot boot recovery.img
 
+// you should se your screen boot up to the TWRP logo, go past the screen and depending if you have a screen lock, greet you with a pattern-unlock grid or, if you didn't set up a screen lock beforehand, you'll be greeted with a TWRP menu //
+
 ### and, of course, always remember to treat others with... kidneyZ
