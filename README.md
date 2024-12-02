@@ -38,4 +38,11 @@ c) the flashing process with acquired files, includes the following steps:
 
 // in case you end up on the TWRP logo, not going past the boot screen, then you probably flashed a wrong recovery image, not built against your current platform, and for that purpose there is the section UN-bricking the SOFT-brick-ed device, because it became soft like jelly on the touch and the only remedy is to throw bricks at it, piling them up on the top of the phone so we can later on, as I mentioned, UN-brick it //
 
+
+// this is the part where we flash the original boot.image back, through the TWRP recovery, so we can later on, after flashing the boot.img, embed/flash the current TWRP/recovery image withing the current boot.img, actually, installing the TWRP recovery, via the recovery //
+
+
+
+// as all of the mentioned steps were, in fact, preparation steps, as the REDMI 13c doesn't have a dedicated recovery partition, and we were bypassing the boot.img sequence which was replaced with a recovery, twrp one, only to be able, finally, to compensate for the lack of a dedicated recovery partition with embeding, integrating the assets of the recovery image within the boot.img //
+
 ### and, of course, always remember to treat others with... kidneyZ
