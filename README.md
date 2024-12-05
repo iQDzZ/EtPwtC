@@ -85,7 +85,12 @@ short description: a place to bind all the steps and files necessary for unlocki
 
 > echo 0 1800000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq
 
-> echo 0 1800000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq 
+> echo 0 1800000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq
+
+// no-BS persistency check for the capped frequency against 6 little cores //
+
+> watch -n 1 'cat /sys/devices/system/cpu/cpu[0-5]/cpufreq/scaling_cur_freq'
+
 
 
 
