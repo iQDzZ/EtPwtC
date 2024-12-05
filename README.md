@@ -73,6 +73,9 @@ short description: a place to bind all the steps and files necessary for unlocki
 ### CPU mod, MEDIATEK chipset, HELIO G80, 6 kleine cores, 2 groSSe cores
 // observation, starting with the 'all in wonder' magisk module, that brings the 'performace tab' to the mediatek chipset devices, isn't persistent at all, while the 2 big cores appear to be 'capped' at 2GHz, the remaining 6 little piggies roam throughout the dynamic clock table, quick remedy to the aforementioned, also, with the help of termux app //
 
+// checking the available frequency table for the 6 little cores, opposed to the 2 big cores, divided into 2 group policies, policy0 (for the little cores) and policy6 (for the big cores)
+
+
 
 
 
