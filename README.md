@@ -70,6 +70,11 @@ short description: a place to bind all the steps and files necessary for unlocki
 > echo 90 > /sys/class/graphics/fb0/mtkfb_fps
 
 ##
+### CPU mod, MEDIATEK chipset, HELIO G80, 6 kleine cores, 2 groSSe cores
+// observation, starting with the 'all in wonder' magisk module, that brings the 'performace tab' to the mediatek chipset devices, isn't persistent at all, while the 2 big cores appear to be 'capped' at 2GHz, the remaining 6 little piggies roam throughout the dynamic clock table, quick remedy to the aforementioned, also, with the help of termux app //
+
+
+
 
 
 ### and, of course, always remember to treat others with... kidneyZ
