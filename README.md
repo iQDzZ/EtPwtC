@@ -58,6 +58,7 @@ short description: a place to bind all the steps and files necessary for unlocki
 ### 4. Rooting the phone with the MAGISK solution
 ### 5. SOFT-unbrick method
 
+## 
 
 ## P to the C part, stands for, bringing the Pee to the Cee, or the big P to the little C, or Performance to the... cLock
 
@@ -65,6 +66,7 @@ short description: a place to bind all the steps and files necessary for unlocki
 // observation wise, starting with the integrated 90 fps, refresh rate for XIAOMI, isn't persistent or existent at all, quick remedy to the problem, taking into account that you have root access, and a terminal utility, for this example will be using termux app //
 
 > tsu
+
 > echo 90 > /sys/class/graphics/fb0/mtkfb_fps
 
 
