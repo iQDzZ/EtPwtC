@@ -36,7 +36,7 @@ short description: a place to bind all the steps and files necessary for unlocki
 
 // you should se your screen boot up to the TWRP logo, go past the screen and depending if you have a screen lock, greet you with a pattern-unlock grid or, if you didn't set up a screen lock beforehand, you'll be greeted with a TWRP menu //
 
-// in case you end up on the TWRP logo, not going past the boot screen, then you probably flashed a wrong recovery image, not built against your current platform, and for that purpose there is the section UN-bricking the SOFT-brick-ed device, because it became soft like jelly on the touch and the only remedy is to throw bricks at it, piling them up on top of the phone so we can later on, as I mentioned, UN-brick it //
+// in case you end up on the TWRP logo, not going past the boot screen, then you probably flashed a wrong recovery image, not built against your current platform, and for that purpose there is the section UN-bricking the SOFT-brick-ed device, because it became soft like jelly 2 the touch and the only remedy is to throw bricks at it, piling them up on top of the phone so we can later on, as I mentioned, UN-brick it //
 
 
 #### d) this is the part where we flash the original boot.image back, through the TWRP recovery, so we can later on, after flashing the boot.img, embed/flash the current TWRP/recovery image withing the current boot.img, actually, installing the TWRP recovery, via the recovery
@@ -56,5 +56,9 @@ short description: a place to bind all the steps and files necessary for unlocki
 > REBOOT, by the time it starts loading the system, unplug the usb cable from the REDMI phone, REBOOT or power off the system > Press Power button while holding the volume up button, after the initial vibration of the phone, release the power button and keep holding the volume up button until the TWRP boot screen shows up > you successfully installed a custom recovery to your phone
 
 ### 4. Rooting the phone with the MAGISK solution
+### 5. SOFT-unbrick method
+
+## P to the C part, stands for, bringing the Pee to the Cee, or the big P to the little C, or Performance to the... cLock
+
 
 ### and, of course, always remember to treat others with... kidneyZ
