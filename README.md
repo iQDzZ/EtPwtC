@@ -85,6 +85,8 @@ short description: a place to bind all the steps and files necessary for unlocki
 
 > echo 0 1800000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq
 
+> echo 0 1800000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq 
+
 
 
 
