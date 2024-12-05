@@ -59,6 +59,7 @@ short description: a place to bind all the steps and files necessary for unlocki
 ### 5. SOFT-unbrick method
 
 ## 
+##
 ## P to the C part, stands for, bringing the Pee to the Cee, or the big P to the little C, or Performance to the... cLock
 
 ### GPU mod, MEDIATEK chipset, MALI G52 MC2 gpu
